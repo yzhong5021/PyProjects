@@ -1,4 +1,4 @@
-Python 3.7
+This repository contains assignments completed in the MIT BWSI Medlytics course.
 
 regression.ipynb
 - Generates data from a linear function, then performs OLS regression on it. Evaluates polynomials and their derivative in order to perform a 1-D gradient descent. Performs an N-D gradient descent on a linear function.
