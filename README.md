@@ -19,7 +19,7 @@ K-S_tests.ipynb
 - 1-sample and 2-sample KS tests on generated data.
 
 inference_metrics.ipynb
-- This file contains methods to calculate the R^2 of a regression model, the confusion matrix given an array of truth labels and estimated labels, and classification metrics such as f1 score and specificity. We generate ROC and P-R curves using sample data.
+- This file contains methods to calculate the R^2 of a regression model, the confusion matrix given an array of truth labels and estimated labels, and classification metrics such as f1 score and specificity. Generates ROC and P-R curves using sample data.
 
 Gauss_Data_Analysis.ipynb
 - Estimates MLE mean μ and variance σ^2 of a sample pickle dataset.
